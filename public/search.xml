@@ -1,73 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Gamma Function</title>
-    <url>/2022/12/22/Gamma-Function/</url>
-    <content><![CDATA[<h3 id="Gamma-Function"><a href="#Gamma-Function" class="headerlink" title="Gamma Function"></a>Gamma Function</h3><p>This repository is based on teaching assistant materials of the course Honors Calculus II in FA2022 semester.</p>
-<span id="more"></span>
-
-<p>If there are similar problems or projects in the future, JI students are responsible for not copying or modifying these codes, or TeX files, as this would be against the Honor Code.</p>
-<p>The owner of this repository should not be held responsible for anyone else’s errors.</p>
-<p>Click <a href="https://github.com/Chloehz/VV156/tree/main/Gamma%20Function">here</a> to view more.</p>
-<p>Due to the limitation of course difficulty, more advanced issues of Gamma Function are not included. For further studies, students may dig deeper into Beta Function and Bessel Series, which also relate to Gamma Function.</p>
-]]></content>
-      <tags>
-        <tag>Calculus</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Snowy Station</title>
-    <url>/2023/01/02/Snowy-Station/</url>
-    <content><![CDATA[<p>This original story  is the coursework of <i>Introduction to Short Story and Novel</i> at <i>SU2022</i> semester of UM-SJTU JI.<br>Due to the haste of writing, there is certainly room for improvement in this article. Your comments and suggestions are welcome.</p>
-<span id="more"></span>
-<p>If there are similar coursework or projects in the future, JI students are responsible for not copying or modifying this story, as this would be against the Honor Code. The author of this novel should not be held responsible for anyone else’s errors.</p>
-<h3 id="Snowy-Station"><a href="#Snowy-Station" class="headerlink" title="Snowy Station"></a>Snowy Station</h3><p>The snowflakes fell featherily, and the snow on the ground turned to pools of dirty ice under the foot of pedestrians, which made it slippery. The last train from this town to Tokyo before the New Year will arrive in half an hour. There were so many people waiting on the platform that the few benches were already full and the rest either stood motionless or paced impatiently to and for.</p>
-<p>“This must be the second coldest winter during my seventy-year life. The last time was almost fifty years ago.” The old man in a brown woolen coat told the young man in a suit sitting next to him.</p>
-<p>“Well, indeed.” Approved the young man politely, “what do you want to do in Tokyo in such a cold winter, sir?”</p>
-<p>The old man smiled quietly, “just for a date.”</p>
-<p>“That must be really romantic, sir.” The young man glanced the old man up and down again and held out his hand to him, “I’m Kudou.”</p>
-<p>The old man shook Kudo’s hand gently and kindly but did not answer. The two men were then silent for a moment.</p>
-<p>“I also wore a suit that winter 50 years ago. Ahh, it is too cold for me now.” It was still the old man who broke the icy phenomenon.</p>
-<p>“You still look very young and strong, sir, you must exercise a lot.” Kudo praised it from the bottom of his heart and hurriedly explained, “I have a very important science conference to attend in Tokyo. That’s why I’m dressed like this.”</p>
-<p>“Ladies and gentlemen, the train will be arriving soon. Please take your luggage and wait outside the yellow line.” The cold, mechanical female voice came from the loudspeaker above the platform, mixed with the wind like a knife cutting paper. Everyone looked toward the end of the winding railway track. At the end of the snow-covered white land, there seemed to be a streak of green, and the steam whistle was faintly discernible.</p>
-<p>Kudo didn’t know when the old man stood up. He nodded goodbye to Kudo.</p>
-<p>“You’re gonna be a great scientist someday.” The old man’s voice seemed to come from another universe, infinitely far away, “K…” The last word was lost in the roar of the wind.</p>
-<p>Kudo also stood up, shook his hair, brushed the snow off his suit, and picked up the square suitcase beside him, which contained a few simple clothes and all his scientific efforts. 31 December 1992. Kudo looked up and saw an electronic clock on the wall not far to his right pulsating red numbers. He gave a shiver. He could not tell whether it was nervousness or excitement. Tomorrow, New Year’s Day 1993, he would present his draft vision for a time travel machine in Tokyo at the World Scientific Conference, presenting his futuristic design in front of the greatest scientists from all over the world.</p>
-<p>The whistle of the steam engine gradually approached, and people moved increasingly closer to the tracks. People were laughing and talking, looking forward to Tokyo’s splendid New Year. Kudo looked around, but the mysterious old man had disappeared from the crowd.</p>
-<p>A shrill scream slashed through the snowy station, accompanied by a crash. Kudo, like everyone else, looked in the direction of the scream’s origin, bewildered and terrified. A young girl clasped her boyfriend in horror, her hands over her mouth, her bell-size eyes staring straight down the platform, “she… she slipped and fell…”</p>
-<p>A young woman in a heavy down jacket and a woolen hat sat motionless on the tracks, apparently still dazed and frightened by the fall seconds ago. The train would arrive in ten seconds and the crowd was in the chaos caused by the urgent accident. Kudo, who had squeezed to the edge of the platform, lay on his stomach and stretched out his hand as far as he could toward the woman.</p>
-<p>“Catch me!” He shouted.</p>
-<p>The woman struggled to stand up and tried to stand on her toes but still couldn’t reach it.</p>
-<p>“Go to the other track!” Someone else shouted, but it was too late. The smoky engine was already in sight when the woman returned to the track. The driver had tried his best to press the pedal, but the train was still rushing towards the girl at great speed. Kudo closed his eyes, afraid to imagine what would happen three seconds later.</p>
-<p>At that moment, the crowd suddenly began to shout and scream again. Kudo opened his eyes, only to see a brown figure pass by, seemingly pushing the woman hard in the back, pushing her off the track. It all happened so fast. Then there was a loud crash, and the green train slowed down in front of people, obscuring their view, and finally stopped after another twenty meters.</p>
-<p>Kudo’s mind went blank. In the midst of the clamor of the crowd, he suddenly recalled the last word the mysterious old man had said to him. It was not Kudo.</p>
-<p>“You’re gonna be a great scientist someday, Kurt.”</p>
-<p>Kudo reached for the ticket in his pocket. He felt dizzy. It could not be real, definitely. He didn’t even have to look to know what it said:</p>
-<center><i>1992.12.31    18:30-20:30<br>
-Kaiten Town-Tokyo<br>
-Second Class Seat    No.4 7A<br>
-Kurt Kudo</i></center>
-
-<p>However, as he pulled out his ticket, he saw an extra piece of paper with his own handwriting that must not be written by himself, “Time cannot change history or destiny.”</p>
-<p>“Just for a date.” Kudo repeated the old man’s words in his mind.</p>
-<p>People and the police jumped off the platform to check the body of the old man, who was already dead after being hit at such speed and dragged twenty meters. Kudo walked over to the young woman standing on the sidetrack in shock. Only now did he realize that she was a very beautiful girl.</p>
-<p>“It’s all right…” Kudo gently soothed the girl.</p>
-<p>“He had no identification on him.” The police shouted.</p>
-<p>“My name is Kurt Kudo.” Kudo held out his hand to the girl.</p>
-<p>“Jessica Brown.” Replied the girl.</p>
-<p><br><br></p>
-<p>“Mrs. Kudo, has the team found the truth behind the accident that caused Mr. Kudo to fail to return from the time travel yet?” Asked one of the journalists.</p>
-<p>“Mr. Kudo is the father of time travel and the machine has been invented for ten years, how can this happen?” Asked another journalist.</p>
-<p>“There is nothing wrong with the machine, and the team is trying hard to find the truth.” Answered Jessica politely, “this is probably his own choice. I believe that he’ll find a way back.”</p>
-<p>After dismissing all the reporters, Jessica returned home. Everything in the house seemed to be in order except the host and one of his brown woolen coats. Three days ago, Kurt walked out of the house and never came back. The assistant saw Kurt turn on the time travel machine from the lab monitor recording, and this was the last image of this great scientist.</p>
-<p>“Dad will surely come back. He has kept exercising for decades and there is no need to worry about his health, mum.” Their eldest forty-year-old son comforted his mother.</p>
-<p>Jessica looked straight at herself in the mirror, and the seventy-year-old figure with grey hair, in a trance, overlapped with the beautiful twenty-year-old girl in a woolen hat. She smiled at her son peacefully, “yes, he’ll surely come back.”</p>
-<p>She walked into Kurt’s room. There was a note in the frame beside his bed. The paper had faded yellow by the years, but the writing was still clearly visible:</p>
-<p>“Time cannot change history or destiny.”</p>
-<p>She knew it when Kurt left home with that brown coat. She knew it when Kurt named the first time travel machine “Destiny”. She knew it when Kurt held his hand to her while all the other people focused on that respected old man.</p>
-]]></content>
-      <tags>
-        <tag>Fiction</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Snowy Station</title>
+      <link href="/2023/01/02/Snowy-Station/"/>
+      <url>/2023/01/02/Snowy-Station/</url>
+      
+        <content type="html"><![CDATA[<p>This original story  is the coursework of <i>Introduction to Short Story and Novel</i> at <i>SU2022</i> semester of UM-SJTU JI.<br>Due to the haste of writing, there is certainly room for improvement in this article. Your comments and suggestions are welcome.</p><span id="more"></span><p>If there are similar coursework or projects in the future, JI students are responsible for not copying or modifying this story, as this would be against the Honor Code. The author of this novel should not be held responsible for anyone else’s errors.</p><h3 id="Snowy-Station"><a href="#Snowy-Station" class="headerlink" title="Snowy Station"></a>Snowy Station</h3><p>The snowflakes fell featherily, and the snow on the ground turned to pools of dirty ice under the foot of pedestrians, which made it slippery. The last train from this town to Tokyo before the New Year will arrive in half an hour. There were so many people waiting on the platform that the few benches were already full and the rest either stood motionless or paced impatiently to and for.</p><p>“This must be the second coldest winter during my seventy-year life. The last time was almost fifty years ago.” The old man in a brown woolen coat told the young man in a suit sitting next to him.</p><p>“Well, indeed.” Approved the young man politely, “what do you want to do in Tokyo in such a cold winter, sir?”</p><p>The old man smiled quietly, “just for a date.”</p><p>“That must be really romantic, sir.” The young man glanced the old man up and down again and held out his hand to him, “I’m Kudou.”</p><p>The old man shook Kudo’s hand gently and kindly but did not answer. The two men were then silent for a moment.</p><p>“I also wore a suit that winter 50 years ago. Ahh, it is too cold for me now.” It was still the old man who broke the icy phenomenon.</p><p>“You still look very young and strong, sir, you must exercise a lot.” Kudo praised it from the bottom of his heart and hurriedly explained, “I have a very important science conference to attend in Tokyo. That’s why I’m dressed like this.”</p><p>“Ladies and gentlemen, the train will be arriving soon. Please take your luggage and wait outside the yellow line.” The cold, mechanical female voice came from the loudspeaker above the platform, mixed with the wind like a knife cutting paper. Everyone looked toward the end of the winding railway track. At the end of the snow-covered white land, there seemed to be a streak of green, and the steam whistle was faintly discernible.</p><p>Kudo didn’t know when the old man stood up. He nodded goodbye to Kudo.</p><p>“You’re gonna be a great scientist someday.” The old man’s voice seemed to come from another universe, infinitely far away, “K…” The last word was lost in the roar of the wind.</p><p>Kudo also stood up, shook his hair, brushed the snow off his suit, and picked up the square suitcase beside him, which contained a few simple clothes and all his scientific efforts. 31 December 1992. Kudo looked up and saw an electronic clock on the wall not far to his right pulsating red numbers. He gave a shiver. He could not tell whether it was nervousness or excitement. Tomorrow, New Year’s Day 1993, he would present his draft vision for a time travel machine in Tokyo at the World Scientific Conference, presenting his futuristic design in front of the greatest scientists from all over the world.</p><p>The whistle of the steam engine gradually approached, and people moved increasingly closer to the tracks. People were laughing and talking, looking forward to Tokyo’s splendid New Year. Kudo looked around, but the mysterious old man had disappeared from the crowd.</p><p>A shrill scream slashed through the snowy station, accompanied by a crash. Kudo, like everyone else, looked in the direction of the scream’s origin, bewildered and terrified. A young girl clasped her boyfriend in horror, her hands over her mouth, her bell-size eyes staring straight down the platform, “she… she slipped and fell…”</p><p>A young woman in a heavy down jacket and a woolen hat sat motionless on the tracks, apparently still dazed and frightened by the fall seconds ago. The train would arrive in ten seconds and the crowd was in the chaos caused by the urgent accident. Kudo, who had squeezed to the edge of the platform, lay on his stomach and stretched out his hand as far as he could toward the woman.</p><p>“Catch me!” He shouted.</p><p>The woman struggled to stand up and tried to stand on her toes but still couldn’t reach it.</p><p>“Go to the other track!” Someone else shouted, but it was too late. The smoky engine was already in sight when the woman returned to the track. The driver had tried his best to press the pedal, but the train was still rushing towards the girl at great speed. Kudo closed his eyes, afraid to imagine what would happen three seconds later.</p><p>At that moment, the crowd suddenly began to shout and scream again. Kudo opened his eyes, only to see a brown figure pass by, seemingly pushing the woman hard in the back, pushing her off the track. It all happened so fast. Then there was a loud crash, and the green train slowed down in front of people, obscuring their view, and finally stopped after another twenty meters.</p><p>Kudo’s mind went blank. In the midst of the clamor of the crowd, he suddenly recalled the last word the mysterious old man had said to him. It was not Kudo.</p><p>“You’re gonna be a great scientist someday, Kurt.”</p><p>Kudo reached for the ticket in his pocket. He felt dizzy. It could not be real, definitely. He didn’t even have to look to know what it said:</p><center><i>1992.12.31    18:30-20:30<br>Kaiten Town-Tokyo<br>Second Class Seat    No.4 7A<br>Kurt Kudo</i></center><p>However, as he pulled out his ticket, he saw an extra piece of paper with his own handwriting that must not be written by himself, “Time cannot change history or destiny.”</p><p>“Just for a date.” Kudo repeated the old man’s words in his mind.</p><p>People and the police jumped off the platform to check the body of the old man, who was already dead after being hit at such speed and dragged twenty meters. Kudo walked over to the young woman standing on the sidetrack in shock. Only now did he realize that she was a very beautiful girl.</p><p>“It’s all right…” Kudo gently soothed the girl.</p><p>“He had no identification on him.” The police shouted.</p><p>“My name is Kurt Kudo.” Kudo held out his hand to the girl.</p><p>“Jessica Brown.” Replied the girl.</p><p><br><br></p><p>“Mrs. Kudo, has the team found the truth behind the accident that caused Mr. Kudo to fail to return from the time travel yet?” Asked one of the journalists.</p><p>“Mr. Kudo is the father of time travel and the machine has been invented for ten years, how can this happen?” Asked another journalist.</p><p>“There is nothing wrong with the machine, and the team is trying hard to find the truth.” Answered Jessica politely, “this is probably his own choice. I believe that he’ll find a way back.”</p><p>After dismissing all the reporters, Jessica returned home. Everything in the house seemed to be in order except the host and one of his brown woolen coats. Three days ago, Kurt walked out of the house and never came back. The assistant saw Kurt turn on the time travel machine from the lab monitor recording, and this was the last image of this great scientist.</p><p>“Dad will surely come back. He has kept exercising for decades and there is no need to worry about his health, mum.” Their eldest forty-year-old son comforted his mother.</p><p>Jessica looked straight at herself in the mirror, and the seventy-year-old figure with grey hair, in a trance, overlapped with the beautiful twenty-year-old girl in a woolen hat. She smiled at her son peacefully, “yes, he’ll surely come back.”</p><p>She walked into Kurt’s room. There was a note in the frame beside his bed. The paper had faded yellow by the years, but the writing was still clearly visible:</p><p>“Time cannot change history or destiny.”</p><p>She knew it when Kurt left home with that brown coat. She knew it when Kurt named the first time travel machine “Destiny”. She knew it when Kurt held his hand to her while all the other people focused on that respected old man.</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Fiction </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Gamma Function</title>
+      <link href="/2022/12/22/Gamma-Function/"/>
+      <url>/2022/12/22/Gamma-Function/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Gamma-Function"><a href="#Gamma-Function" class="headerlink" title="Gamma Function"></a>Gamma Function</h3><p>This repository is based on teaching assistant materials of the course Honors Calculus II in FA2022 semester.</p><span id="more"></span><p>If there are similar problems or projects in the future, JI students are responsible for not copying or modifying these codes, or TeX files, as this would be against the Honor Code.</p><p>The owner of this repository should not be held responsible for anyone else’s errors.</p><p>Click <a href="https://github.com/Chloehz/VV156/tree/main/Gamma%20Function">here</a> to view more.</p><p>Due to the limitation of course difficulty, more advanced issues of Gamma Function are not included. For further studies, students may dig deeper into Beta Function and Bessel Series, which also relate to Gamma Function.</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Calculus </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
